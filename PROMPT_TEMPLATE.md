@@ -22,6 +22,6 @@ Once initialized, I want you to make FIVE different designs. Each design should 
 
 ## Skills
 
-To make sure you deliver code of good quality all to make sure code follows consistent standards, a few skills are provided for you that might fit the context of this prompt. All of them are free to be used by you at any time. Usage of these skills are mandatory if they fit the given requirements. All of them are listed below: 
+To make sure you deliver code of good quality all to make sure code follows consistent standards, a few skills are provided for you that might fit the context of this prompt. All of them are free to be used by you at any time. Usage of these skills are mandatory if they fit the given requirements. All of them are listed below:
 
-- [frontend-design](./SKILL_FRONTEND.md)
+- [frontend-design-skill](./frontend/SKILL_FRONTEND.md)
